@@ -1,7 +1,9 @@
+import Navbar from "./Components/Navbar/Navbar";
+
 const App = () => {
   return (
     <>
-      <h1>Welcome to Shopper</h1>
+      <Navbar/>
     </>
   )
 }
