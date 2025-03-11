@@ -24,6 +24,9 @@
     font-weight: 500;
 
 }
+.links{
+    text-decoration: none;
+}
 .nav-menu li {
     display: flex;
     flex-direction: column;
